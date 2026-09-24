@@ -5,7 +5,7 @@ First release of the HackerOne Theme extension for [Zed](https://zed.dev).
 Dark and light themes in HackerOne’s pink, blue, and mint palette, ported from the official [HackerOne VS Code Theme](https://github.com/Hacker0x01/HackerOne-VS-Code-Theme).
 
 > [!IMPORTANT]
-> This is an unofficial community port. It is not published or endorsed by HackerOne.
+> This is an unofficial port. It is not published or endorsed by HackerOne.
 
 > [!NOTE]
 > First public release (`v0.1.0`). Theme names in Zed are **HackerOne Dark** and **HackerOne Light**.
